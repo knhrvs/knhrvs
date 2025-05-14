@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Ken!
+
+Welcome to my GitHub profile! I am a passionate developer with experience in **React Typescript**.
+
+## 📌 About Me
+
+- 🔭 I’m currently working on **ilovetaters - Stock ordering system with built in inventory system**
+- 🌱 Interested In Exploring **Advanced system design and scalable architecture**
+- 📫 How to reach me: knhrvs.dev@gmail.com
+- ⚡ Fun fact: **🌙 I’m more productive at midnight than during regular working hours.**
+
+## 📊 GitHub Stats
+
+![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=knhrvs&theme=algolia&show_icons=true&count_private=true)
 
 <!--
-**knhrvs/knhrvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Top Languages
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knhrvs&langs_count=8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🤝 Let's Connect!
+
+- 🔗 [LinkedIn](your-linkedin-profile)
+
 -->
+
