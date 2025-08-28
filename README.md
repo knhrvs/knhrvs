@@ -26,16 +26,21 @@
 
 <p align="center">
   <img src="https://gh-stats-knhrvs.vercel.app/api?username=knhrvs&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Ken's GitHub Stats" />
-  <img src="https://gh-stats-knhrvs.vercel.app/api/top-langs/?username=knhrvs&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+ <!-- <img src="https://gh-stats-knhrvs.vercel.app/api/top-langs/?username=knhrvs&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />-->
 </p>
 
+
+<!--
 ---
 
 ## 🔥 Streak Stats  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=knhrvs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats-virid-psi.vercel.app?user=knhrvs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
+
 <!--
 ---
 
