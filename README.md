@@ -16,7 +16,7 @@
 ## 🛠️ Skills  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,astro,tailwind,mysql,git,githubactions,php,nodejs,flask,python,vercel,netlify,gcp,postman,linux,vscode,materialui,pusherjs,npm,ps,xampp" height="80" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,astro,tailwind,mysql,git,githubactions,php,nodejs,flask,python,vercel,netlify,gcp,postman,linux,vscode,materialui,npm,ps,spring" height="80" />
 </p>
 
 
